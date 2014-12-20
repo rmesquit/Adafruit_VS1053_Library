@@ -24,7 +24,8 @@
 //#include "pins_arduino.h"
 //#include "wiring_private.h"
 //#include <SPI.h> 
-#include <SD.h>
+//#include <SD.h>
+#include "sd-card-library/sd-card-library.h"
 
 #define VS1053_FILEPLAYER_TIMER0_INT 255 // allows useInterrupt to accept pins 0 to 254
 #define VS1053_FILEPLAYER_PIN_INT 5
