@@ -13,7 +13,7 @@
  ****************************************************/
 
 #include "Adafruit_VS1053_Library.h"
-#include "SD.h"
+//#include "SD.h"
 static Adafruit_VS1053_FilePlayer *myself;
 
 #if defined(__AVR__)
