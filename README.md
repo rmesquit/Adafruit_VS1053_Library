@@ -1,4 +1,4 @@
-  This is a library for the Adafruit VS1053 Codec Breakout modified to Spark Core
+  This is a library for the Adafruit VS1053 Codec Breakout modified to be used with a Spark Core device
 
   Designed specifically to work with the Adafruit VS1053 Codec Breakout 
   ----> https://www.adafruit.com/products/1381
