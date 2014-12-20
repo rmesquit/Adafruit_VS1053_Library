@@ -18,10 +18,10 @@
  #include "Arduino.h"
 #else
 // #include "WProgram.h"
- #include <pins_arduino.h>
+// #include <pins_arduino.h>
 #endif
 
-#include "pins_arduino.h"
+//#include "pins_arduino.h"
 #include "wiring_private.h"
 #include <SPI.h> 
 #include <SD.h>
