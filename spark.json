@@ -1,0 +1,7 @@
+{
+  "name": "Spark Core Version",
+  "author": "Adafruit",
+  "license": "MIT",
+  "version": "0.0.10",
+  "description": "Spark Library for vs1053"
+}
