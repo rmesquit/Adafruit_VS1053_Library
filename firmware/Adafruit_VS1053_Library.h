@@ -14,10 +14,9 @@
 #ifndef ADAFRUIT_VS1053_H
 #define ADAFRUIT_VS1053_H
 
-#include <pins_arduino.h>
-
-#include "pins_arduino.h"
-#include "wiring_private.h"
+//#include <pins_arduino.h>
+//#include "pins_arduino.h"
+//#include "wiring_private.h"
 #include <SPI.h> 
 #include <SD.h>
 
@@ -112,7 +111,7 @@ class Adafruit_VS1053 {
 };
 
 
-class Adafruit_VS1053_FilePlayer : public Adafruit_VS1053 {
+/*class Adafruit_VS1053_FilePlayer : public Adafruit_VS1053 {
  public:
   Adafruit_VS1053_FilePlayer (int8_t mosi, int8_t miso, int8_t clk, 
 			      int8_t rst, int8_t cs, int8_t dcs, int8_t dreq,
@@ -137,5 +136,5 @@ class Adafruit_VS1053_FilePlayer : public Adafruit_VS1053 {
  private:
   uint8_t _cardCS;
 };
-
+*/
 #endif // ADAFRUIT_VS1053_H
