@@ -14,10 +14,10 @@
 #ifndef ADAFRUIT_VS1053_H
 #define ADAFRUIT_VS1053_H
 
-#if (ARDUINO >= 100)
- #include <Arduino.h>
+#if defined(ARDUINO) && ARDUINO >= 100
+ #include "Arduino.h'
 #else
- #include <WProgram.h>
+ #include "WProgram.h"
  #include <pins_arduino.h>
 #endif
 
