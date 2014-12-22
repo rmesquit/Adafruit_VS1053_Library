@@ -12,8 +12,8 @@
   BSD license, all text above must be included in any redistribution
  ****************************************************/
 
-#include "Adafruit_VS1053_Library.h"
-#include "SD.h"
+#include "adafruit-vs1053-library.h"
+#include "sd-card-library.h"
 static Adafruit_VS1053_FilePlayer *myself;
 
 #if defined(__AVR__)
