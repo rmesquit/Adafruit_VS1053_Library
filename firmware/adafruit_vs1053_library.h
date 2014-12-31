@@ -16,7 +16,7 @@
 
 //#include <pins_arduino.h>
 //#include "pins_arduino.h"
-#include "wiring_private.h"
+//#include "wiring_private.h"
 #include <SPI.h> 
 #include "../sd-card-library/sd-card-library.h"
 
