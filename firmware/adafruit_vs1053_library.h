@@ -14,7 +14,7 @@
 #ifndef ADAFRUIT_VS1053_H
 #define ADAFRUIT_VS1053_H
 
-#include <pins_arduino.h>
+//#include <pins_arduino.h>
 #include "pins_arduino.h"
 #include "wiring_private.h"
 #include <SPI.h> 
